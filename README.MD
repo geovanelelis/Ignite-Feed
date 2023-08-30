@@ -1,4 +1,4 @@
-<h1 align="center">Projeto DevLinks</h1>
+<h1 align="center">Projeto Ignite Feed</h1>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -9,7 +9,7 @@
 <br>
 
 <p align="center">
-  <img alt="projeto DevLinks" src="./Readme/preview.png" width="100%">
+  <img alt="projeto Ignite Feed" src="/src/images/preview.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -23,12 +23,12 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O DevLinks é um agregador de links para usar como cartão de visitas online.
+O Ignite Feed é uma plataforma interativa desenvolvida utilizando React e TypeScript. O projeto apresenta um feed de publicações com recursos de comentários, likes e exclusão de comentários. A aplicação é responsiva, funcionando em navegadores web e dispositivos móveis. Este projeto faz parte do curso Ignite da Rocketseat, focado no estudo e prática dos fundamentos do ReactJS.
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](<https://www.figma.com/file/MF894TdzM99Fg9Ssu4KyMq/DevLinks-(Copy)?node-id=1%3A113&t=8x94o7ecTaQMC2CS-1/duplicate>). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](<https://www.figma.com/file/TR0lRtewTCLLD49LkeHY2H/Ignite-Feed-(Community)?node-id=0%3A1&mode=dev>). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## :memo: Licença
 
-Esse projeto foi desenvolvido a partir do curso Discover da Rocketseat, e está sob a licença MIT.
+Esse projeto foi desenvolvido a partir do curso Ignite da Rocketseat, e está sob a licença MIT.
