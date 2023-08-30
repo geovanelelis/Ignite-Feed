@@ -96,7 +96,9 @@ export function Post({ post }: PostProps) {
           } else if (line.type === "link") {
             return (
               <p key={line.content}>
-                <a href="a">{line.content}</a>
+                <a href="https://geovanelelis.github.io/Ignite-Feed/">
+                  {line.content}
+                </a>
               </p>
             );
           }
